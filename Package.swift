@@ -10,7 +10,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "KeychainAccess",
+    name: "swift-keychainaccess",
     platforms: [
         .macOS(.v10_10), .iOS(.v8), .tvOS(.v9), .watchOS(.v2)
     ],
